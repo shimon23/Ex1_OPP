@@ -1,3 +1,3 @@
 # Ex1_OPP
-Exercise 1 in the OOP course
-The Description of the task in the OOP_EX1.
+Exercise 1 OOP course
+The Description of the task in the pdf file.
